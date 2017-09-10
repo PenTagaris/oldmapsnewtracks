@@ -1,0 +1,13 @@
+# Site navigation links
+
+- title: Home
+  url: /
+
+- title: All Pictures
+  url: /assets/img/
+
+  #- title: Blog
+  #  url: /blog/
+
+- title: Search
+  url: /search/
