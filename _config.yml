@@ -9,7 +9,7 @@ url: https://oldmapsnewtracks.com
 defaults:
   -
     scope:
-      path: "images/"
+      path: "images/photos"
     values:
       image: true
 
@@ -17,7 +17,7 @@ defaults:
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: rouge
+#highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
