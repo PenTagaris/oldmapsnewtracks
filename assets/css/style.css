@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* To Center Images */
+.center {
+	text-align: center;
+}

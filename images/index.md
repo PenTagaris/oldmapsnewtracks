@@ -9,11 +9,8 @@ title: Gallery
 Enjoy!</em>
 </p>
 
-
-{% assign image_files = site.static_files | where: "image", true %}
-{% for myimage in image_files reversed %}
-  <a href = "{{ myimage.path }}">
-  <img src = "{{ myimage.path | replace: 'photos','thumbs'}}"
-  alt="{{ myimage.name }}">
-  </a>
-{% endfor %}
+<p style="text-align:center">
+<a href="./czech_republic">Czech Republic</a><br />
+<a href="./ireland">Ireland</a><br />
+<a href="./iceland">Iceland</a><br />
+</p>

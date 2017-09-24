@@ -3,6 +3,7 @@ layout: post
 date: 2017-09-11
 title: Of Horses, Cave People, and Fermented Shark
 categories: iceland
+comments: true
 image:
   feature: /images/thumbs/iceland/IMG_20170909_074716.jpg
 ---

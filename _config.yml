@@ -12,7 +12,6 @@ defaults:
       path: "images/photos"
     values:
       image: true
-
 # Jekyll configuration
 
 permalink:   /:categories/:title/

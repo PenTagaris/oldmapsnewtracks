@@ -2,6 +2,7 @@
 layout: post
 date: 2017-09-13
 title: Iceland Q&A
+comments: true
 categories: iceland
 ---
 

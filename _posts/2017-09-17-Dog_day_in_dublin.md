@@ -2,6 +2,7 @@
 layout: post
 date: 2017-09-17
 title: A Dog Day in Dublin
+comments: true
 categories: ireland
 ---
 

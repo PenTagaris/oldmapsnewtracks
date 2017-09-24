@@ -3,6 +3,7 @@ layout: post
 title: Old Friends and Good Whiskey
 date: 2017-09-19
 categories: ireland
+comments: true
 image:
   feature: /images/thumbs/ireland/IMG_20170918_113255.jpg
 ---

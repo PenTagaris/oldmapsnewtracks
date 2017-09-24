@@ -2,6 +2,7 @@
 title: Hella Weird Landscapes, Yo.
 date: 2017-09-08
 layout: post
+comments: true
 categories: iceland
 ---
 
