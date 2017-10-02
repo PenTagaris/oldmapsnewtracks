@@ -5,7 +5,7 @@ date: 2017-09-27
 categories: czech_republic
 comments: true
 image:
-  feature: /images/thumbs/czech_republic/IMG_20170925_171308.jpg
+  feature: /images/thumbs/czech_republic/IMG_20170925_172329.jpg
 ---
 
 
