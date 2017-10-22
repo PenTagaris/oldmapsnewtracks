@@ -1,11 +1,9 @@
 ---
 layout: post
-title: City of Sunsets
+title: City of A Hundred Spires
 date: 2017-09-30
 categories: czech_republic
 comments: true
-image:
-  feature: /images/thumbs/czech_republic/IMG_20170926_174014.jpg
 ---
 
 The Czech people drink, on average, 140 L of beer per capita each year, and as far as countries are concerned, are far and away #1 in this endeavor.  When we first heard that beer was cheaper than water, we thought it a joke, but quickly realized that at around 30-50 CZK ($1.55-$2.50) it was in fact a reality.  Beer, coffee, and water are all about the same price, so we're feeling a little dehydrated here...because why would you chose water given those options?
@@ -13,7 +11,8 @@ The Czech people drink, on average, 140 L of beer per capita each year, and as f
 ![Tipsy Tourists](/images/thumbs/czech_republic/IMG_20170928_182041.jpg)
 *Pictured: Tipsy tourists*
 
-![Budweiser Budvar](/images/thumbs/czech_republic/IMG_20170928_204324.jpg)
+{: .center}
+![Budweiser Budvar](/images/thumbs/czech_republic/IMG_20170928_204324.jpg)\\
 *The original Budweiser Budvar, brewed for hundreds of years. No relation to Anheuser-Busch, and the subject of a long-running [lawsuit](https://en.wikipedia.org/wiki/Budweiser_trademark_dispute).*
 
 Our hostel, the Czech Inn (pause while you get the pun...), was fabulous.  We met several like-minded travelers there, including a couple from Missouri who were doing essentially the same trip as us, but in reverse!  It was fun finding a group of new friends while in a completely different country.
@@ -45,9 +44,12 @@ We encountered beer gardens on hills high above the city and right down by the r
 
 There are castles and cathedrals everywhere, which serve as good landmarks for figuring out where you are.  It's an extremely walkable city- we saw pretty much the entire city and never once took public transporation (although we did take ubers to and from the airport).  We got our miles in though; we walked about 10-12 miles every day!  You have to burn off that goulash and beer somehow.
 
+![Prague Castle](/images/thumbs/czech_republic/IMG_20170926_174014.jpg)
+*Another shot of Prague Castle at sunset*
+
 Czech food is very much meat and potatoes based, but in a different way than Ireland.  Pork takes a front seat in many of the dishes, and foods like Klobash (sausage) and pork knuckle are plentiful.  As far as beef is concerned, two traditional foods, Svitkova (Dana's favorite), and gulas (Justin's favorite) are delicious.  There were a few street fairs set up across the city to celebrate St. Wencestlas Day, a national holiday.  They served hot spiced wine and delicous trdlnik, which is a spiral of dough wrapped around a wooden dowl and cooked over a charcoal fire, then coated in cinnamon sugar and sometimes filled with nutella.  It is as amazing as it sounds.
 
-![Goulash](/images/thumbs/czech_republic/IMG_20170924_193128.jpg)
+![Goulash](/images/thumbs/czech_republic/IMG_20170929_192234.jpg)
 *Goulash served in bread bowls.  This food sticks to your ribs.*
 
 ![Hot chocolate](/images/thumbs/czech_republic/IMG_20170926_122835.jpg)
