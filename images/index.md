@@ -10,6 +10,7 @@ Enjoy!</em>
 </p>
 
 <p style="text-align:center">
+<a href="./india">India</a><br />
 <a href="./czech_republic">Czech Republic</a><br />
 <a href="./ireland">Ireland</a><br />
 <a href="./iceland">Iceland</a><br />
