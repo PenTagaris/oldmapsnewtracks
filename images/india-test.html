@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+  var country = "nepal";
+  var folder = "../images/thumbs/" + country + "/*";
+  
+  $.ajax({
+    url : folder,
+    success: function (data) {
+      $(data).find("a").attr("href", function (i, val) {
+        if( val.match(/\.(jpe?g|png|gif)$/) ) {
+          $("body").append( "<img src='" + val + "' />" );
+        }
+      });
+    }
+  });
+});
+</script>
+</head>
+</html>
