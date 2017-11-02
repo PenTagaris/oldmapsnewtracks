@@ -35,7 +35,7 @@ After some sweaty frisbee football, a weak attempt to learn cricket, and a yummy
 For those who have noticed that we were camping next to a river, and that our problems could have been easily solved, we had our reasons for not taking a swim. Specifically, the Ganges is the fifth most polluted river in the world. The issue is so bad that the pollution has an entirely separate [wikipedia article](https://en.wikipedia.org/wiki/Pollution_of_the_Ganges) from the [article about the Ganges](https://en.wikipedia.org/wiki/Ganges).
 
 ![Ganges](/images/thumbs/india/IMG_20171007_170148.jpg)
-*It's beautiful, if a bit gross*
+*It's beautiful, if a bit dirty*
 
 Our guide promised a wakeup call the next morning, so we wouldn't miss the sunrise. This turned out to be a bit more unorthodox than a shake at the tent door. We were roused by the temple we had observed in the distance, playing the morning call to prayer. This in and of itself was intriguing, but the icing on top was the backing track, which was definitely some sort of Indian Dubstep.
 

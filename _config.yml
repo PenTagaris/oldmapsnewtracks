@@ -5,6 +5,7 @@ locale: en_US
 description: A blog recounting the adventures of Justin & Dana's 2017-2018 world-wide jaunt. With pictures!
 logo: site-logo.jpg
 search: true
+incremental: true
 url: https://oldmapsnewtracks.com
 defaults:
   -
