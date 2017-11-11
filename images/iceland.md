@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Iceland Gallery
+regenerate: true
 ---
 
 <p style="text-align:center">

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Nepal Gallery
+regenerate: true
 ---
 
 <p style="text-align:center">

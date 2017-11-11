@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Czech Republic Gallery
+regenerate: true
 ---
 
 <p style="text-align:center">

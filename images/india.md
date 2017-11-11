@@ -1,6 +1,7 @@
 ---
 layout: page
 title: India Gallery
+regenerate: true
 ---
 
 <p style="text-align:center">
