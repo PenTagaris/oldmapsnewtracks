@@ -144,7 +144,7 @@ figure {
     margin-bottom: 10px;
   }
 
-  a {
+/*a {
 
     img {
       @include transform(translateY(0));
@@ -159,7 +159,7 @@ figure {
         opacity: 1;
       }
     }
-  }
+  }*/
 }
 
 svg:not(:root) {

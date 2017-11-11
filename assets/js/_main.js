@@ -31,7 +31,8 @@ $(function() {
 });
 
 // Add lightbox class to all image links
-$("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gif']").addClass("image-popup");
+//Or maybe not. Let's see if this will kill off the stupidity.
+//$("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gif']").addClass("image-popup");
 
 // Magnific-Popup options
 $(document).ready(function() {

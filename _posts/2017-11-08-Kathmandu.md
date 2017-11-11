@@ -9,7 +9,6 @@ comments: true
 
 The final adventure we would share with our tour group was travelling to Kathmandu to see the many beautiful temples in the capital of Nepal.  The road we took to Kathmandu is the only road that runs from Chitwan to Kathmandu,and is therefore heavily traveled.  The not-quite-two-lane road has a mountain on one side, a precipitous drop to the river below on the other, and is in constant need of maintenance.  Work to widen and pave the road has apparently been ongoing for years now, but the fact that the road is never closed and is populated by huge shipping trucks day and night has seriously hindered the pace.  When we travelled it, one lane was closed for nearly the entire length of the road due to construction, so traffic was left to squeeze into the outside lane.
 
-
 {% include image.html file="IMG_20171014_094233.jpg" alt="Crazy Road" caption="The dramatic view on the road to Kathmandu" %}
 
 {% include image.html file="IMG_20171014_111555.jpg" alt="Crazy Road" caption="Lush rainforest and a muddy river" %}
@@ -19,7 +18,6 @@ Steel cable bridges spanned the canyon at regular intervals to allow people to c
 {% include image.html file="PANO_20171014_111512.jpg" alt="bridge" caption="Insert Indiana Jones theme song here" %}
 
 {% include image.html file="IMG_20171014_112212.jpg" alt="bridge" caption="Swinging on the bridge...no crocodiles below thankfully" %}
-![](/images/thumbs/nepal/.jpg)
 
 After this nail-biting six hour drive (which passed in a blink thanks to a lively game of charades), we topped the last hill to see Kathmandu stretched out below us. The sea of low colorful buildings was covered in a thick haze of smog and dust, and the hills on the other side of the city were just barely visible through the pollution.  Our hotel was in the Thamel district, which is the central downtown area where most of the tourism is located.  The traffic-clogged streets are just barely more negotiable in this area, where hundreds of pedestrians clog the throughways, but you still have to be constantly ready to leap out of the way of a speeding motorbike or overly friendly tout.
 
@@ -39,7 +37,7 @@ There's a heady sense of adventure permeating everything in Kathmandu, owing to 
 
 We woke up early to catch a flight up to see Everest.  It was a bit more than our budget allowed, but we figured how many chances in our life will we get to see this?  We didn't get as close Everest as we had hoped, but it was still an absolutely spectacular view.  These mountains are so much bigger than anything we've ever seen before...they make the Rockies look like tiny little hills.
 
-{% include image.html  alt="Everest" file="IMG_20171015_070935.jpg" caption="The dawn smog hanging over the city as we took off." %}*
+{% include image.html  alt="Everest" file="IMG_20171015_070935.jpg" caption="The dawn smog hanging over the city as we took off." %}
 
 {% include image.html  alt="Everest" file="IMG_20171015_071323.jpg" caption="And then BOOM you're above the clouds and the blue sky and mountains are stretched out before you!" %}
 
@@ -71,10 +69,9 @@ That evening we said a regretful goodbye to our tour group.  We were so lucky to
 
 {% include image.html file="IMG_20171015_220013.jpg" alt="Last night at the bar" caption="Tiger pose!  We will miss our new friends!" %}
 
-{% include image.html file="IMG_20171015_234453-01.jpg" alt="Leaving our mark" caption="Leaving our mark at the bar.*Fun bahut acha* translates to "fun is necessary", the perfect motto for this group!" %}
+{% include image.html file="IMG_20171015_234453-01.jpg" alt="Leaving our mark" caption='Leaving our mark at the bar. <em>Fun bahut acha</em> translates to "fun is necessary", the perfect motto for this group!' %}
 
 The two of us stayed on in the city for another few days, exploring the dusty streets, catching up on some much-needed rest, and eating as many mo:mos as we could get our hands on!
-
 
 {% include image.html file="IMG_20171017_110152.jpg" alt="Kathmandu streets" caption="Exploring the dusty streets" %}
 
