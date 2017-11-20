@@ -10,11 +10,11 @@ image:
 
 Iceland.  It's been an eventful first day.  This is a jaw-droppingly gorgeous country, full of jagged volcanic scapes, tall blonde rawboned locals, and crisp lagers.  The air smells amazing and the tap water tastes great.  What's not to love?  So far we haven't found anything, except maybe the crazy high food prices.  The lifestyle seems straight out of an IKEA cataloge (just replace the meatballs with lamb hotdogs).
 
-{% include postpic.html file="park_heidmork.jpg" caption="Hiking the hilltop at Park Heiðmörk just outside Reykjavik %}
+{% include postpic.html file="park_heidmork.jpg" caption="Hiking the hilltop at Park Heiðmörk just outside Reykjavik" %}
 
 {% include postpic.html file="GIF_dana_in_glade.gif" caption="A glade of what look like wild pea plants" %}
 
-{% include postpic.html file="firepit.jpg" caption="Some local "sculpture" hidden in the woods" %}
+{% include postpic.html file="firepit.jpg" caption='Some local "sculpture" hidden in the woods' %}
 
 It wouldn't be an adventure without some mishaps, and we have already met one major one. In Iceland, one is required to keep their lights on while driving. However, as most folks know, the lights should be turned off when not driving - this small but important detail was missed while we went hiking in Park Heiðmörk. We were saved by a passerby, who taught us how to push-start our (fortunately) manual car!
 
