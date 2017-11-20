@@ -1393,7 +1393,7 @@ var hasMozTransform,
 $.magnificPopup.registerModule('zoom', {
 
 	options: {
-		enabled: false,
+		enabled: true,
 		easing: 'ease-in-out',
 		duration: 300,
 		opener: function(element) {
@@ -1697,7 +1697,7 @@ var _getLoopedId = function(index) {
 $.magnificPopup.registerModule('gallery', {
 
 	options: {
-		enabled: false,
+		enabled: true,
 		arrowMarkup: '<button title="%title%" type="button" class="mfp-arrow mfp-arrow-%dir%"></button>',
 		preload: [0,2],
 		navigateByImgClick: true,

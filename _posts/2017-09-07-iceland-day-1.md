@@ -2,7 +2,7 @@
 title: Iceland Day 1
 date: 2017-09-07
 layout: post
-categories: iceland
+category: iceland
 comments: true
 image:
   feature: /images/thumbs/iceland/park_heidmork_view.jpg
@@ -14,7 +14,7 @@ Iceland.  It's been an eventful first day.  This is a jaw-droppingly gorgeous co
 
 {% include postpic.html file="GIF_dana_in_glade.gif" caption="A glade of what look like wild pea plants" %}
 
-{% include postpic.html file="firepit.jpg" caption='Some local "sculpture" hidden in the woods' %}
+{% include postpic.html file="firepit.jpg" caption="Some local 'sculpture' hidden in the woods" %}
 
 It wouldn't be an adventure without some mishaps, and we have already met one major one. In Iceland, one is required to keep their lights on while driving. However, as most folks know, the lights should be turned off when not driving - this small but important detail was missed while we went hiking in Park Heiðmörk. We were saved by a passerby, who taught us how to push-start our (fortunately) manual car!
 
