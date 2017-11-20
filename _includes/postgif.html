@@ -1,0 +1,4 @@
+<figure>
+	<a target="_blank" href="/images/animated/{{page.category}}/{{include.file}}"><img src="/images/animated/{{page.category}}/{{include.file}}" {% if {{include.alt}} %}alt="{{include.alt}}" {% elsif {{include.caption}} %}alt="{{include.caption}}" {% else %}alt="{{include.file}}" {% endif %} {% if {{include.style}} %}style="{{include.style}}" {% endif %} /></a>
+	{% if {{include.caption}} %}<figcaption>{{include.caption}}</figcaption>{% endif %}
+</figure>

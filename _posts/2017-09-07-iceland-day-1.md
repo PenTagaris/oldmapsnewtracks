@@ -12,7 +12,7 @@ Iceland.  It's been an eventful first day.  This is a jaw-droppingly gorgeous co
 
 {% include postpic.html file="park_heidmork.jpg" caption="Hiking the hilltop at Park Heiðmörk just outside Reykjavik" %}
 
-{% include postpic.html file="GIF_dana_in_glade.gif" caption="A glade of what look like wild pea plants" %}
+{% include postgif.html file="GIF_dana_in_glade.gif" caption="A glade of what look like wild pea plants" %}
 
 {% include postpic.html file="firepit.jpg" caption="Some local 'sculpture' hidden in the woods" %}
 
