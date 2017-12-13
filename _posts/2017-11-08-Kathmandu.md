@@ -15,7 +15,7 @@ The final adventure we would share with our tour group was travelling to Kathman
 
 Steel cable bridges spanned the canyon at regular intervals to allow people to cross over to the huts clinging to the mountain on the other side, and we got to get out and stretch our legs on one of these bridges.  The whole area felt decidedly Indiana Jones-esque.
 
-{% include postpic.html file="PANO_20171014_111512.jpg" alt="bridge" caption="Insert Indiana Jones theme song here" %}
+{% include postpic.html file="IMG_PANO_20171014_111512.jpg" alt="bridge" caption="Insert Indiana Jones theme song here" %}
 
 {% include postpic.html file="IMG_20171014_112212.jpg" alt="bridge" caption="Swinging on the bridge...no crocodiles below thankfully" %}
 

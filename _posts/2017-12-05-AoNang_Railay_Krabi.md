@@ -26,7 +26,7 @@ We did take a kayak tour one day, which was absolutely worth the money.  We padd
 
 {% include postpic.html file="IMG_20171107_101936.jpg" caption="Into the canyon we go..." %}
 
-{% include postpic.html file="IMG_20171107_104441.jpg" caption="Our very own tiny "private" beach!  Also infested with hungry monkeys." %}
+{% include postpic.html file="IMG_20171107_104441.jpg" caption="Our very own tiny somewhat-private beach!  Also infested with hungry monkeys." %}
 
 After a few days we took a longtail boat to the next bay over, Railay Beach, which is famed for its huge limestone rock formations and world-class rock climbing.  The small strip of land by the beach is completely hemmed in by cliffs, so the only way to reach Railay is by boat.  Our accommodations were at the top of the island, and we had some delightful chats with the monkeys who inhabited the area.  We spent two days on Railay, taking time to explore the many caves where the limestone seems to flow off the cliff faces like water, lounging by the beach and doing a little hiking.  Justin tried his hand at climbing one morning, and made it 27 meters up one of the cliff faces!
 
@@ -80,7 +80,7 @@ While Dana continued her recovery, and not very much in the mood for food, Justi
 
 The instructions included a seafood soup known as Tom Yum, Red Curry, Pad Thai, and spring rolls. All of the dishes were surprisingly easy, once you have the right tools and ingredients! As a parting gift, we were given a cookbook, with some helpful tips inside.
 
-{% include postpic.html file="IMG_20171117_200815.jpg" caption="Our ingredients. Everything was made from scratch, including the curry paste. This required a mortle, a pestle, and quite a bit of elbow grease!"
+{% include postpic.html file="IMG_20171117_200815.jpg" caption="Our ingredients. Everything was made from scratch, including the curry paste. This required a mortle, a pestle, and quite a bit of elbow grease!" %}
 
 {% include postpic.html file="IMG_20171117_181915.jpg" caption="Our Cooking Area" %}
 

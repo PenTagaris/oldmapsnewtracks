@@ -20,7 +20,7 @@ We settled into relaxing with a vengence.  We didn't do much for the three days 
 
 {% include postpic.html file="IMG_20171024_153016.jpg" caption="Our first meal in paradise!" %}
 
-{% include postpic.html file="PANO_20171025_180949.jpg" caption="The beach we were at is called Long Beach.  Because it is long.  It occasionally had jellyfish and stinging plankton, though, so swimming was hit or miss while we were there." %}
+{% include postpic.html file="IMG_PANO_20171025_180949.jpg" caption="The beach we were at is called Long Beach.  Because it is long.  It occasionally had jellyfish and stinging plankton, though, so swimming was hit or miss while we were there." %}
 
 {% include postpic.html file="IMG_20171025_181501.jpg" caption="Breathtaking sunsets over the Andaman Sea" %}
 
