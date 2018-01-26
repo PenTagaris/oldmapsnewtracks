@@ -1,12 +1,12 @@
 ---
 layout: post
-title:
+title:The West Coast Glaciers and Wellington
 date:
 category: new_zealand
 comments: true
 ---
 
-The scenery changes dramatically once you get onto the west coast of the South Island.  You pass from dry scrubby hills and dramatic snow-capped mountains into dense rainforest.  A very wet and windy road brings you at last to the flat lowlands beside the coast, which look eerily similar to the Oregon coast.  Except, you know, glaciers.
+The scenery changes dramatically once you get onto the west coast of the South Island.  Dry scrubby hills and dramatic snow-capped mountains give way to dense rainforest and raucous rivers.  A very wet and windy road brings you at last to the flat lowlands beside the coast, which look eerily similar to the Oregon coast.  Except, you know, glaciers.
 
 {% include postpic.html file="IMG_20171210_124553.jpg" caption="Making our way down the narrow pass, taking a little breather from the hairy driving." %}
 
