@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don't Be Hasty...
-date: 2017-12-10
+date: 2018-01-26
 category: new_zealand
 comments: true
 ---
@@ -32,7 +32,7 @@ We thought two weeks would be plenty of time to see the sights on the south isla
 
 {% include postpic.html file="IMG_20171205_115800.jpg" caption="If you didn't know, Justin is part python and can unhinge his jaw." %}
 
-{% include postpic.html file="IMG_20171205_1.jpg" caption="We found a rusty old playground at one of the campsites we stayed at.  It was run by an American hippy who "escaped" the states in the 60's and came to live here.  She was a hoot to talk to.  Not a big fan of Trump, shockingly enough." %}
+{% include postpic.html file="IMG_20171205_1.jpg" caption="We found a rusty old playground at one of the campsites we stayed at.  It was run by an American hippy who 'escaped' the states in the 60's and came to live here.  She was a hoot to talk to.  Not a big fan of Trump, shockingly enough." %}
 
 {% include postpic.html file="IMG_20171205_2.jpg" caption="We...um...may have had a bit too much wine." %}
 
@@ -66,9 +66,7 @@ After pretending to be hobbits lost in the Dead Marshes, we made our way up the 
 
 {% include postpic.html file="IMG_20171207_133358.jpg" caption="This little guy is a weka, one of the flightless birds of NZ.  We met a few of them while we were there, always mooching for food and hamming it up for the camera!  They seem pretty fearless, and have quite the personality, stalking around like tiny awkward dinosaurs looking for dropped crisps!" %}
 
-insert weka gif
-
-{% include postpic.html file=".jpg" caption="" %}
+{% include postgif.html file="Burst_Cover_GIF_Action_20171207133421.gif" caption="Tiny awkward dinosaur, attack!" %}
 
 {% include postpic.html file="IMG_20171207_133839.jpg" caption="The lovely Millford Sound.  It was beautiful to see, but most of the fun was in getting there." %}
 

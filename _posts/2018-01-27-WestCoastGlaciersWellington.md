@@ -1,7 +1,7 @@
 ---
 layout: post
-title:The West Coast Glaciers and Wellington
-date:
+title: The West Coast Glaciers and Wellington
+date: 2018-01-27
 category: new_zealand
 comments: true
 ---
@@ -14,7 +14,7 @@ The scenery changes dramatically once you get onto the west coast of the South I
 
 {% include postpic.html file="IMG_20171210_163318.jpg" caption="OUr first glacier sighting, Fox Glacier!  Crazy to think that less than a hundred years ago it extended past where we were standing to take this photo.  Justin's cut foot was bothering him so we didn't make it any closer, but it was still really cool.  Literally.  You could feel the frigid wind blowing off the glacier and down the valley." %}
 
-{% include postpic.html file="IMG_20171210_174930.jpg" caption="We spent another night in a real campground, which felt pretty luxe.  Hot showers and flush toilets, ooh la la!  The forest here was very unusual; some of the tallest "trees" were these big oddly shaped tree ferns, which gave the forest kind of a whimsical Dr. Seus feeling." %}
+{% include postpic.html file="IMG_20171210_174930.jpg" caption="We spent another night in a real campground, which felt pretty luxe.  Hot showers and flush toilets, ooh la la!  The forest here was very unusual; some of the tallest 'trees' were these big oddly shaped tree ferns, which gave the forest kind of a whimsical Dr. Seuss feeling." %}
 
 {% include postpic.html file="IMG_20171211_114137.jpg" caption="The magnificent Franz Joseph glacier!  We were able to walk almost up to the base of this one (as far as you're allowed to go for safety reasons)" %}
 
@@ -44,7 +44,7 @@ The scenery changes dramatically once you get onto the west coast of the South I
 
 {% include postpic.html file="IMG_20171214_184856.jpg" caption="Our last campsite on the South Island!  Another lovely free site by the water." %}
 
-{% include postpic.html file="IMG_20171214_184856.jpg" caption="Here's a view of the inside of the camper.  The bed folds up to give you some benches and a table, so it feels quite roomy!" %}
+{% include postpic.html file="IMG_20171214_184930.jpg" caption="Here's a view of the inside of the camper.  The bed folds up to give you some benches and a table, so it feels quite roomy!" %}
 
 After our last camping spot by the sea, we got in line to take the massive Interislander ferry across the straight to the North Island.  I had mixed feelings about this...what could beat the amazing camping and wild scenery of the South Island?  But, there were volcanoes and glowworm caves and Hobbiton waiting for us, so it couldn't be *all* bad.
 
@@ -66,7 +66,7 @@ After our last camping spot by the sea, we got in line to take the massive Inter
 
 {% include postpic.html file="IMG_20171215_170027.jpg" caption="Wellington reminds us of San Francisco.  Lots of really steep hills and artsy folks walking around with wierd-colored hair!" %}
 
-{% include postpic.html file="IMG_20171215_194231.jpg" caption="The best fish and chips (in NZ pronounced *fash* and chips) we found.  Except I whimped out and got baked fish.  But Justin got the propper fried stuff, and it was delicious." %}
+{% include postpic.html file="IMG_20171215_194231.jpg" caption="The best fish and chips (in NZ pronounced <i>fash</i> and chips) we found.  Except I whimped out and got baked fish.  But Justin got the propper fried stuff, and it was delicious." %}
 
 {% include postpic.html file="IMG_20171215_211700.jpg" caption="Walking back to our marina campsite after enjoying dinner and drinks in the city.  We got to walk back through the forest where all the hobbit scenes were shot, with a view of Wellington sparkling below.  And I got to pretend ringwraiths were chasing us the whole way (much to Justin's chagrin).  Best tipsy stumble home ever!!!" %}
 
