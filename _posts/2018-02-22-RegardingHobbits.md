@@ -6,7 +6,7 @@ category: new_zealand
 comments: true
 ---
 
-Finally, the reason we'd come to New Zealand in the first place: Hobbiton!  Just kidding, but we are ginormous dorks so we were pretty excited to see the film set.  We showed up in the afternoon and had a few hours to wait before our tour started, so we killed time scarfing down ice cream and perusing the gift shop.  Because of course there's a gift shop.  You can buy Gandalf's magic scarf (pretty sure Tolkein never mentioned a magic scarf, but hooray merchandising).
+Finally, the reason we'd come to New Zealand in the first place: Hobbiton!  Just kidding, but we are ginormous dorks so we were pretty excited to see the film set.  We showed up in the afternoon and had a few hours to wait before our tour started, so we killed time scarfing down ice cream and perusing the gift shop.  Because of course there's a gift shop.  You can buy Gandalf's magic scarf (pretty sure Tolkien never mentioned a magic scarf, but hooray merchandising).
 
 {% include postpic.html file="IMG_20171218_151615.jpg" caption="We made it!  And there's ice cream!  And a very hairy Justin!" %}
 
