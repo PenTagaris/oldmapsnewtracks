@@ -1,7 +1,7 @@
 ---
 layout: post
 title: One Does Not Simply Walk Into Mordor
-date:
+date: 2018-02-22
 category: new_zealand
 comments: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vietnam Gallery
+title: New Zealand Gallery
 regenerate: true
 category: new_zealand
 ---
