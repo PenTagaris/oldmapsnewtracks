@@ -1,12 +1,12 @@
 ---
 layout: post
 title: A Beachin' Christmas
-date: 2018-02-22
+date: 2018-02-23
 category: new_zealand
 comments: true
 ---
 
-The time had come to part with our huge campervan, which we had grown rather fond of despite how woefully unsuited it was to the narrow snaking roads of NZ.  Bags in hand, we headed out to the street to try to catch the city bus to our hostel in downtown Auckland.  Somehow we had yet to take a public bus on our adventure so far (maybe we're bad backpackers, because isn't that a ritual of backpacking?) so we were mentally preparing ourselves for all the different tranfers we'd need to take to get to our hostel.  We'd been waiting at the bus stop for about 30 seconds when a sedan ducked out of the rush hour traffic and pulled up next to us.  The driver asked if we were heading downtown and if we wanted a ride.  Dana, forgetting all basic safety rules like "don't hop into cars with strangers", (although in the age of Uber is that still a rule?) promptly chirped "Awesome, thanks!" and hopped in.  Thankfully he was just a nice guy and not a serial killer, so we made it downtown without incident, and failed yet again in taking the public bus.  Then we had a long talk about jumping in cars with random guys.
+The time had come to part with our huge campervan, which we had grown rather fond of despite how woefully unsuited it was to the narrow snaking roads of NZ.  Bags in hand, we headed out to the street to try to catch the city bus to our hostel in downtown Auckland.  Somehow we had yet to take a public bus on our adventure so far (maybe we're bad backpackers, because isn't that a ritual of backpacking?) so we were mentally preparing ourselves for all the different transfers we'd need to take to get to our hostel.  We'd been waiting at the bus stop for about 30 seconds when a sedan ducked out of the rush hour traffic and pulled up next to us.  The driver asked if we were heading downtown and if we wanted a ride.  Dana, forgetting all basic safety rules like "don't hop into cars with strangers", (although in the age of Uber is that still a rule?) promptly chirped "Awesome, thanks!" and hopped in.  Thankfully he was just a nice guy and not a serial killer, so we made it downtown without incident, and failed yet again in taking the public bus.  Then we had a long talk about jumping in cars with random guys.
 
 It being the week before Christmas, the main shopping street in Auckland was all abuzz with the consumer spirit.
 
