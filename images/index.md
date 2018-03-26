@@ -10,6 +10,7 @@ Enjoy!</em>
 </p>
 
 <p style="text-align:center">
+<a href="./australia">Australia</a><br />
 <a href="./new_zealand">New Zealand</a><br />
 <a href="./vietnam">Vietnam</a><br />
 <a href="./thailand">Thailand</a><br />
