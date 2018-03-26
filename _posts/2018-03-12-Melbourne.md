@@ -34,7 +34,7 @@ We spent our days wandering around the city, exploring all the little alleyways 
 
 {% include postpic.html file="IMG_20171230_184821.jpg" caption="Another happy hour special; oysters with bacon and barbeque sauce.  This might be sacreligious to true oyster lovers, but we thought it was pretty tasty!" %}
 
-{% include postpic.html file="IMG_20180101_000326.jpg" caption="Enjoying the wildlife at one of the many parks while chilling for an afternoon.  Melbourne had so many fantastic parks!" %}
+{% include postpic.html file="IMG_20180101_150732.jpg" caption="Enjoying the wildlife at one of the many parks while chilling for an afternoon.  Melbourne had so many fantastic parks!" %}
 
 {% include postpic.html file="IMG_20180102_1.jpg" caption="The Melbourne waterfront on one of the rare beautiful sunny days we got!" %}
 
@@ -76,7 +76,7 @@ We had decided to spend New Years in Melbourne rather than Sydney because it was
 
 On our last afternoon in the city, we were wandering around the massive Royal Botanical Gardens when we saw a popup Globe Theater.  They were advertising Much Ado About Nothing for that evening, and the tickets for the standing room "seats" were only $10, so we got tickets for that evening's performance.  Justin wasn't so sure about the idea, but we got dressed up in our least grungy hiking pants and made our way back to the theater that night.  We were both pleasantly surprised, as the performance was awesome!  We laughed so hard our sides hurt, the actors were great at bringing out the comedy in Shakespeare's writing.
 
-{% include postpic.html file="IMG_20180103_202721.jpg" caption="Turns out it was a New Zealand troupe performing, and they brought some Maori flavor into the performance, including a haka and a traditional Maori dance." %}
+{% include postpic.html file="IMG_20180103_202721.jpg" caption="Turns out it was a New Zealand troupe performing, and they brought some Mauri flavor into the performance, including a haka and a traditional Mauri dance." %}
 
 {% include postpic.html file="IMG_20180103_221257.jpg" caption="The actors were really fantastic.  If you ever get a chance to see a performance by the Pop Up Globe, we highly recommend it!" %}
 
