@@ -16,7 +16,7 @@ A long flight crossing 13 time zones deposited us, more jet-lagged than we yet r
 
 {% include postpic.html file="IMG_20180114_142700.jpg" caption="So many talented artists." %}
 
-{% include postpic.html file="IMG_20180113_202007.jpg" caption="This wouldn't be South America without a plethora of Catholic churches.  Although apparently the people of Buenos Aires are a pretty agnostic bunch." %}
+{% include postpic.html file="IMG_20180113_202007.jpg" caption="This wouldn't be South America without a plethora of Catholic churches. Something about the Pope being from Buenos Aires..." %}
 
 We were really excited to explore this huge city, but we were also really, *really* jetlagged.  More jetlagged than either of us had ever been in our lives.  That time difference is a doozy; our bodies laughed at our attempts to immediately adopt the local time.  So we spent about three days in a haze of semi-wakefullness, taking short walks around the city when we had the energy, and trying to avoid our weird Brazilian roommate, who was alternately really grumpy or really friendly depending on his level of intoxication.
 
@@ -42,7 +42,7 @@ The people of Buenos Aires, like most South Americans it seems, are a people det
 
 {% include postpic.html file="IMG_20180117_165957.jpg" caption="Greenspaces are everywhere." %}
 
-{% include postpic.html file="IMG_20180117_165626.jpg" caption="Monumento al huevon.  Monument to the egg.  We thought that was pretty funny." %}
+{% include postpic.html file="IMG_20180117_165626.jpg" caption="Monumento al huevo.  Monument to the egg.  We thought that was pretty funny." %}
 
 On our last day in this part of town, we walked over to Puerto Madero, the former industrial port which now plays host to gleaming skyscrapers and tech company headquarters.
 
