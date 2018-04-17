@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Two Sides of Buenos Aires
+title: Buenos Aires - Steak, Inflation, Tango and Jetlag
 date: 2018-04-14
 category: argentina
 comments: true
