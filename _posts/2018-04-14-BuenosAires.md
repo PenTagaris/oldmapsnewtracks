@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Buenos Aires - Steak, Inflation, Tango and Jetlag
-date: 2018-04-14
+date: 2018-04-19
 category: argentina
 comments: true
 ---
@@ -36,7 +36,9 @@ On day four we finally got our act together and attended a walking tour given by
 
 The people of Buenos Aires, like most South Americans it seems, are a people determined to enjoy life despite the sharp curveballs thrown at them by a corrupt government.  Many of them seem to have a wry and fatalistic sense of humor, which reminded us of the Czechs a bit.  But they make beautiful art, they write, they sing about *amor*, they play in the many huge parks scattered throughout the city, and of course, they dance the tango.
 
-{% include postpic.html file="IMG_20180116_223549.jpg" caption="We had the pleasure of attending a tango performance one night with our hostel roommate, a really nice girl from the Black Forest in Germany.  It was muy dramático." %}
+{% include postpic.html file="IMG_20180116_Tango.jpg" caption="Justin managed to cajole Dana into taking a free tango lesson at our hostel. What we lacked in talent, grace, and general ability, we made up for in flare. Thanks to our teacher for the lesson, and for taking the picture!" %}
+
+{% include postpic.html file="IMG_20180116_223549.jpg" caption="After the group lesson, we had the pleasure of attending a professional tango performance one night with our hostel roommate, a really nice girl from the Black Forest in Germany.  The dancing was muy dramático, and the orchestra was exceptional, especially the lead accordion player." %}
 
 {% include postpic.html file="IMG_20180117_170451.jpg" caption="One of the decidedly more European-feeling lanes.  Fancy malls and shops line the streets, and the streets themselves are full of money changers shouting 'Cambio! Cambio!' to passers-by." %}
 
